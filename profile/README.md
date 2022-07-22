@@ -9,12 +9,11 @@
   
 <h1 align="center"><b> Welcome to Calton IT Knowledgebase </b></h1>
 <p align="center">Here you can find technical guides target day to day tasks and solutions</p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/30513430/180406837-0b60e567-1355-4492-bdea-16dea48cb709.gif" width="400" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/30513430/180406837-0b60e567-1355-4492-bdea-16dea48cb709.gif" width="300" /> </p>
 
 ---
-
-<p align="center">
 <h3 align="center"><b> Members </b></h3>
+<p align="center">
 <a href="https://github.com/pendevera">@pendevera</a> |
 <a href="https://github.com/mardevera">@mardevera</a> |
 <a href="https://github.com/imalalad">@imalalad</a> |
