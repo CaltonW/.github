@@ -32,22 +32,3 @@
 <a href="https://github.com/johncaballes">@johncaballes</a> |
 <a href="https://github.com/nenfaelnar">@nenfaelnar</a>
 </p>
-
----
-### Guideline  
-- IT Sup will require IT Staff to create a documentation / guide
-
-- IT Staff to create a Task ticket with the discussed due date
-  - Everyday update within the ticket is a must - else will be `declined` before closing
- 
-- IT Staff to submit the draft version of the document
-
-- IT Sup to validate the draft document
-  - To validate, IT Sup to recreate the process step by step base on the draft document
-  - IT Staff to correct the document for every missed / incorrect information validated by IT Sup
- 
-- IT Sup to publish the accepted draft document in md format following standard documentation template
-
-- Validation and publishing of document must not breached the due date - else will be a `failed` task
-
-  > Note: Failed tasks reflect on the assignee and supervisor performance
