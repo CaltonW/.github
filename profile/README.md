@@ -32,6 +32,7 @@ class Members extends bat[] {
   support = 'patrickgads <0>';
   support = 'garretem <0>';
   support = 'patty28 <0>';
+  support = 'pascualjonas13 <0>';
   //support = 'vacielo <2>';
   //support = 'mvallester <2>';
   //support = 'mariaanonuevo <2>';
@@ -40,6 +41,7 @@ class Members extends bat[] {
 class Members extends ceb2[] {
   lead* = 'jpelayo <2>';
   support = 'robertcelestial <0>';
+  support = 'wilshenville <0>';
   support = 'christiangermano <0>'; 
 }
 
@@ -56,6 +58,7 @@ class Members extends ceb3[11] {
   support = 'arvinkilario <0>';
   support = 'nenfaelnar <0>';
   support = 'remelrole <0>';
+  support = 'garquillano <0>';
   support = 'evanvillaester <0>';
 }
 ```
