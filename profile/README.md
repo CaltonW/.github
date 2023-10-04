@@ -16,7 +16,7 @@ CW IT Knowledgebase
 ---
 </br>
 <samp>
-Technical guides that target day to day tasks and solutions.
+Technical guides that target day-to-day tasks and solutions.
 </samp>
 
 ```js
@@ -39,11 +39,15 @@ class Members extends bat[] {
 
 class Members extends ceb2[] {
   lead* = 'jpelayo <2>';
+  support = 'robertcelestial <0>';
+  support = 'christiangermano <0>'; 
 }
 
 class Members extends ceb3[10] {
   sup = 'joffdevera <0>';
   lead* = 'dennrazier <2>';
+  support = 'saledrian94 <0>';
+  support = 'bonnieann <0>'; 
 }
 
 class Members extends ceb3[11] {
@@ -51,6 +55,7 @@ class Members extends ceb3[11] {
   support = 'axllewis <0>';
   support = 'arvinkilario <0>';
   support = 'nenfaelnar <0>';
+  support = 'remelrole <0>';
 }
 ```
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
