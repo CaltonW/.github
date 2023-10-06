@@ -40,7 +40,7 @@ class Members extends bat[] {
 }
 
 class Members extends ceb2[] {
-  lead* = 'jpelayo <2>';
+  leàd = 'jpelayo <2>';
   support = 'wilshenville <0>';
   support = 'maejtorres <0>';
   support = 'johnartuz <0>';
@@ -51,8 +51,9 @@ class Members extends ceb2[] {
 
 class Members extends ceb3[10] {
   sup = 'joffdevera <0>';
-  lead* = 'dennrazier <2>';
+  leàd = 'dennrazier <2>';
   support = 'ronantyconsad <0>';
+  support = 'ryandegracia <0>';
   support = 'jaderyanbathan <0>';
   support = 'saledrian94 <0>';
   support = 'jcnadela <0>';
@@ -61,7 +62,7 @@ class Members extends ceb3[10] {
 }
 
 class Members extends ceb3[11] {
-  lead* = 'johncaballes <0>';
+  leàd = 'johncaballes <0>';
   support = 'axllewis <0>';
   support = 'arvinkilario <0>';
   support = 'nenfaelnar <0>';
