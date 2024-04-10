@@ -41,7 +41,7 @@ class Members extends bat[] {
 
 class Members extends ceb2[] {
   leàd = 'jpelayo <2>';
-  support = 'wilshenville <0>';
+  //support = 'wilshenville <0>';
   support = 'maejtorres <0>';
   support = 'johnartuz <0>';
   support = 'robertcelestial <0>';
