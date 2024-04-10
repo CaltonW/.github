@@ -26,11 +26,11 @@ class Members extends bat[] {
   asstmgr = 'mardevera <1>';
   lead = 'imalalad <4>';
   lead = 'biencarlo15 <4>';
-  support = 'hharvs <4>';
+  //support = 'hharvs <4>';
   support = 'timpaul22 <1>';
   support = 'jdolaguer <0>';
-  support = 'patrickgads <0>';
-  support = 'garretem <0>';
+  //support = 'patrickgads <0>';
+  //support = 'garretem <0>';
   support = 'patty28 <0>';
   support = 'creloza1600 <0>';
   support = 'pascualjonas13 <0>';
