@@ -27,13 +27,13 @@ class Members extends bat[] {
   lead = 'imalalad <4>';
   lead = 'biencarlo15 <4>';
   //support = 'hharvs <4>';
-  support = 'timpaul22 <1>';
+  //support = 'timpaul22 <1>';
   support = 'jdolaguer <0>';
   //support = 'patrickgads <0>';
   //support = 'garretem <0>';
   support = 'patty28 <0>';
   support = 'creloza1600 <0>';
-  support = 'pascualjonas13 <0>';
+  //support = 'pascualjonas13 <0>';
   //support = 'vacielo <2>';
   //support = 'mvallester <2>';
   //support = 'mariaanonuevo <2>';
